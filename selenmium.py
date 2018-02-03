@@ -1,3 +1,4 @@
+#Download a youtube playulist automatically via youtube-mp3.org
 import requests, bs4, os, time, webbrowser
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -8,7 +9,7 @@ NEXT_BUTTON_XPATH = '//input[@type="submit" and @id="submit"]'
 
 bet_fa = driver.find_element_by_id("youtube-url")
 bet_fa.clear()
-bet_fa.send_keys("https://www.youtube.com/watch?v=GU2PAYSDEMg")
+bet_fa.send_keys("https://www.youtube.com/") #Youtube playlist url here
 
 button = driver.find_element_by_xpath(NEXT_BUTTON_XPATH)
 button.click()

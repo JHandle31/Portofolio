@@ -1,3 +1,4 @@
+#check if your proxies are working via infobyip.com/proxychecker.php
 import requests, bs4, time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys

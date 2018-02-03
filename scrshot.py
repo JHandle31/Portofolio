@@ -1,4 +1,4 @@
-#-- include('examples/showgrabfullscreen.py') --#
+#make a screenshow of your current screen
 import pyscreenshot as ImageGrab
 
 if __name__ == "__main__":

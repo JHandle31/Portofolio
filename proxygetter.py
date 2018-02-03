@@ -1,3 +1,4 @@
+#Get proxies from free-proxy-list.net
 import bs4, requests    
 import urllib2
 import socket

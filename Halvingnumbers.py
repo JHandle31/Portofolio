@@ -1,3 +1,4 @@
+#Little algorithm for a problem via command line
 import sys
 number = float(sys.argv[1])
 total = number

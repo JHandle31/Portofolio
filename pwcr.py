@@ -1,4 +1,4 @@
-#wachtwoord generator
+#Create random passwords(Dutch) old project
 import random
 import math
 keuze = raw_input("1. Number generator \n2. Letter generator \n3. Letter/getallen generator\n4. Letter+Hoofdletter/getallen generator\n5. Letter+Hoofdletter/getallen/symbol generator\n>")
