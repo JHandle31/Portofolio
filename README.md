@@ -18,3 +18,18 @@ A couple of screenshots of the movie website
 
 Gif of website 
 [Click here](http://i.imgur.com/nFqQPFW.gif)
+
+### Machine Learning
+I followed a couple of tutorials about machine learning in python and ended up with making my own app which predicts how the cryptomarket will go (DISCLAIMER: The predictions are not accurate enough to make money off of it)
+
+This is the output of my program:
+
+![Imgur](https://i.imgur.com/kWvjEvW.png)
+Here you can see the bitcoin market with red the current data and blue is the predicted data.
+(This data was collected on February the 3rd)
+
+### For movie website
+Here you can find some of the things I used to gather data for the website. The Spiders folder contains the Scrapy made web crawler.
+
+### Olympiade
+Here you can find the solutions and excersises I had to do for the first round of the olympiade
