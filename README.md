@@ -26,10 +26,11 @@ This is the output of my program:
 
 ![Imgur](https://i.imgur.com/kWvjEvW.png)
 Here you can see the bitcoin market with red the current data and blue is the predicted data.
-(This data was collected on February the 3rd)
+(This data was collected on February the 1st)
 
 ### For movie website
 Here you can find some of the things I used to gather data for the website. The Spiders folder contains the Scrapy made web crawler.
 
 ### Olympiade
 Here you can find the solutions and excersises I had to do for the first round of the olympiade
+
