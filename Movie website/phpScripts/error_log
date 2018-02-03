@@ -1,0 +1,530 @@
+[16-Apr-2017 09:11:39 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:11:39 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:11:39 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:11:39 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:11:39 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:11:39 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:11:39 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 09:11:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 09:12:57 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:12:57 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:12:57 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:12:57 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:12:57 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:12:57 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:12:57 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 09:12:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 09:14:52 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:14:52 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:14:52 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:14:52 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:14:52 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:14:52 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:14:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 09:14:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 09:17:38 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:17:38 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:17:38 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:17:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:17:38 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:17:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:17:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 09:17:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 09:17:42 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:17:42 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:17:42 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:17:42 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:17:42 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:17:42 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:17:42 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 09:17:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 09:24:28 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 09:36:32 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:36:32 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:36:32 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:36:32 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:36:32 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:36:32 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:36:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 09:36:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 09:39:07 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:39:07 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 09:39:07 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:39:07 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 09:39:07 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:39:07 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 09:39:07 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 09:39:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:05:24 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:05:24 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:05:24 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:05:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:05:24 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:05:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:05:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:05:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:18:06 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:18:06 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:18:06 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:18:06 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:18:06 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:18:06 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:18:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:18:06 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:19:52 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:19:52 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:19:52 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:19:52 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:19:52 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:19:52 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:19:52 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:19:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:20:20 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:20:20 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:20:20 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:20:20 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:20:20 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:20:20 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:20:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:20:20 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:20:27 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:20:27 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:20:27 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:20:27 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:20:27 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:20:27 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:20:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:20:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:21:49 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:21:49 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:21:49 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:21:49 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:21:49 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:21:49 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:21:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:21:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:25:46 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:25:46 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:25:46 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:25:46 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:25:46 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:25:46 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:25:46 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:25:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:25:57 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:25:57 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:25:57 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:25:57 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:25:57 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:25:57 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:25:57 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:25:57 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:26:01 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:26:01 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:26:01 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:26:01 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:26:01 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:26:01 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:26:01 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:26:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 10:29:38 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:29:38 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 10:29:38 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:29:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 10:29:38 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:29:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 10:29:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 10:29:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 16:59:33 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:33 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:33 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:33 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:33 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:33 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 16:59:33 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 16:59:47 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:47 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:47 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:47 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:47 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:47 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:47 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 16:59:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 16:59:48 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:48 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:48 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:48 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 16:59:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 16:59:49 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:49 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 16:59:49 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:49 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 16:59:49 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:49 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 16:59:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 16:59:49 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:02:03 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:02:03 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:02:03 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:02:03 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:02:03 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:02:03 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:02:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:02:03 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:02:11 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:02:11 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:02:11 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:02:11 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:02:11 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:02:11 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:02:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:02:11 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:04:12 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:04:12 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:04:12 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:04:12 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:04:12 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:04:12 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:04:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:04:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:05:06 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:06 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:06 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:06 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:06 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:06 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:05:06 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:05:08 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:08 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:08 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:08 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:08 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:08 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:05:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:05:20 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:20 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:20 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:20 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:20 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:20 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:05:20 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:05:24 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:24 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:24 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:24 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:05:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:05:26 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:26 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:05:26 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:26 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:05:26 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:26 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:05:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:05:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:06:38 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:06:38 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:06:38 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:06:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:06:38 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:06:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:06:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:06:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:07:12 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:12 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:12 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:07:12 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:07:12 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:12 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:07:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:07:13 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:13 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:13 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:07:13 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:07:13 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:13 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:07:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:07:33 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:33 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:33 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:33 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:33 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:07:33 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:07:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 36
+[16-Apr-2017 17:07:33 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:07:48 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:48 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:07:48 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:07:48 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:07:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:07:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 36
+[16-Apr-2017 17:07:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:08:39 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:39 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:39 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:39 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:39 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:39 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:08:40 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:40 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:40 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:40 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:40 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:40 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:08:41 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:41 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:41 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:41 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:41 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:41 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:08:42 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:42 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:08:42 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:42 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:08:42 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:42 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:08:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:09:14 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:09:14 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:09:14 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:09:14 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:09:14 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:09:14 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:09:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:09:48 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:09:48 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:09:48 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:09:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:09:48 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:09:48 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:09:48 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:10:26 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:10:26 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:10:26 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:10:26 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:10:26 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:10:26 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:10:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:10:40 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:10:40 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:10:40 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:10:40 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:10:40 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:10:40 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:10:40 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:10:58 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:10:58 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:10:58 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:10:58 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:10:58 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:10:58 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:10:58 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:10:58 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:11:15 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:11:15 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:11:15 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:11:15 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:11:15 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:11:15 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:11:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:11:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:11:27 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:11:27 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:11:27 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:11:27 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:11:27 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:11:27 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:11:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:11:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:11:46 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:11:46 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:11:46 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:11:46 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:11:46 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:11:46 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:11:46 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:11:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:12:42 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:12:42 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:12:42 America/New_York] PHP Notice:  Undefined variable: conn in /home/newmedgr/public_html/phpScripts/getmovies.php on line 23
+[16-Apr-2017 17:12:42 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 23
+[16-Apr-2017 17:12:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 23
+[16-Apr-2017 17:12:42 America/New_York] PHP Notice:  Undefined variable: conn in /home/newmedgr/public_html/phpScripts/getmovies.php on line 24
+[16-Apr-2017 17:12:42 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 24
+[16-Apr-2017 17:12:42 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 24
+[16-Apr-2017 17:12:42 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 25
+[16-Apr-2017 17:12:42 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 27
+[16-Apr-2017 17:12:42 America/New_York] PHP Notice:  Undefined variable: conn in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:12:42 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:12:51 America/New_York] PHP Notice:  Undefined variable: index in /home/newmedgr/public_html/phpScripts/getmovies.php on line 15
+[16-Apr-2017 17:12:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/newmedgr/public_html/phpScripts/getmovies.php on line 23
+[16-Apr-2017 17:12:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 23
+[16-Apr-2017 17:12:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/newmedgr/public_html/phpScripts/getmovies.php on line 24
+[16-Apr-2017 17:12:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 24
+[16-Apr-2017 17:12:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 25
+[16-Apr-2017 17:12:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 27
+[16-Apr-2017 17:12:51 America/New_York] PHP Notice:  Undefined variable: conn in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:12:51 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[16-Apr-2017 17:13:22 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:13:22 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:13:22 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:13:22 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:13:22 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:13:22 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:13:22 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:13:22 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:13:44 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:13:44 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:13:44 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:13:44 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:13:44 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:13:44 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:13:44 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:13:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:14:38 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:14:38 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:14:38 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:14:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:14:38 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:14:38 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:14:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:14:38 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:14:51 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:14:51 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:14:51 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:14:51 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:14:51 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:14:51 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:14:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:14:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:18:24 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:18:24 America/New_York] PHP Notice:  Undefined index: page in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:18:24 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:18:24 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:18:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:18:24 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:18:24 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:18:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:18:24 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:19:58 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:19:58 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:19:58 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:19:58 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:19:58 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:19:58 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:19:58 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:19:58 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[16-Apr-2017 17:20:35 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:20:35 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[16-Apr-2017 17:20:35 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:20:35 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[16-Apr-2017 17:20:35 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:20:35 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[16-Apr-2017 17:20:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[16-Apr-2017 17:20:35 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[17-Apr-2017 03:16:27 America/New_York] PHP Warning:  include(ChromePhp.php): failed to open stream: No such file or directory in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[17-Apr-2017 03:16:27 America/New_York] PHP Warning:  include(ChromePhp.php): failed to open stream: No such file or directory in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[17-Apr-2017 03:16:27 America/New_York] PHP Warning:  include(): Failed opening 'ChromePhp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[17-Apr-2017 03:16:27 America/New_York] PHP Fatal error:  Class 'ChromePhp' not found in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[17-Apr-2017 03:17:46 America/New_York] PHP Warning:  include(ChromePhp.php): failed to open stream: No such file or directory in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[17-Apr-2017 03:17:46 America/New_York] PHP Warning:  include(ChromePhp.php): failed to open stream: No such file or directory in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[17-Apr-2017 03:17:46 America/New_York] PHP Warning:  include(): Failed opening 'ChromePhp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[17-Apr-2017 03:17:46 America/New_York] PHP Fatal error:  Class 'ChromePhp' not found in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[17-Apr-2017 03:18:05 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 5
+[17-Apr-2017 03:18:05 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 5
+[17-Apr-2017 03:18:05 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[17-Apr-2017 03:18:05 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[17-Apr-2017 03:18:05 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[17-Apr-2017 03:18:05 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[17-Apr-2017 03:18:05 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 36
+[17-Apr-2017 03:18:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[17-Apr-2017 03:18:07 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 5
+[17-Apr-2017 03:18:07 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 5
+[17-Apr-2017 03:18:07 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[17-Apr-2017 03:18:07 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[17-Apr-2017 03:18:07 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[17-Apr-2017 03:18:07 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[17-Apr-2017 03:18:07 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 36
+[17-Apr-2017 03:18:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 38
+[17-Apr-2017 03:18:19 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[17-Apr-2017 03:18:19 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[17-Apr-2017 03:18:19 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[17-Apr-2017 03:18:19 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 33
+[17-Apr-2017 03:18:19 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[17-Apr-2017 03:18:19 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 34
+[17-Apr-2017 03:18:19 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 35
+[17-Apr-2017 03:18:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[17-Apr-2017 04:47:01 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[17-Apr-2017 04:47:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[17-Apr-2017 04:48:01 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[17-Apr-2017 04:48:01 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 37
+[29-Apr-2017 07:01:43 America/New_York] PHP Notice:  Undefined index: query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 7
+[29-Apr-2017 07:01:43 America/New_York] PHP Notice:  Undefined index: random in /home/newmedgr/public_html/phpScripts/getmovies.php on line 8
+[29-Apr-2017 07:02:35 America/New_York] PHP Notice:  Undefined index: query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 7
+[29-Apr-2017 07:02:35 America/New_York] PHP Notice:  Undefined index: random in /home/newmedgr/public_html/phpScripts/getmovies.php on line 8
+[29-Apr-2017 07:02:37 America/New_York] PHP Notice:  Undefined index: query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 7
+[29-Apr-2017 07:02:37 America/New_York] PHP Notice:  Undefined index: random in /home/newmedgr/public_html/phpScripts/getmovies.php on line 8
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined index: action in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined index: currentPage in /home/newmedgr/public_html/phpScripts/getmovies.php on line 5
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 6
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined index: query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 7
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined index: random in /home/newmedgr/public_html/phpScripts/getmovies.php on line 8
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 40
+[29-Apr-2017 07:10:36 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 40
+[29-Apr-2017 07:10:36 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 41
+[29-Apr-2017 07:10:36 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 41
+[29-Apr-2017 07:10:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 42
+[29-Apr-2017 07:10:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 43
+[29-Apr-2017 07:10:36 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined index: action in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined index: currentPage in /home/newmedgr/public_html/phpScripts/getmovies.php on line 5
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 6
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined index: query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 7
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined index: random in /home/newmedgr/public_html/phpScripts/getmovies.php on line 8
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 40
+[29-Apr-2017 10:45:04 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 40
+[29-Apr-2017 10:45:04 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 41
+[29-Apr-2017 10:45:04 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 41
+[29-Apr-2017 10:45:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 42
+[29-Apr-2017 10:45:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 43
+[29-Apr-2017 10:45:04 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined index: action in /home/newmedgr/public_html/phpScripts/getmovies.php on line 3
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined index: currentPage in /home/newmedgr/public_html/phpScripts/getmovies.php on line 5
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined index: year in /home/newmedgr/public_html/phpScripts/getmovies.php on line 6
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined index: query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 7
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined index: random in /home/newmedgr/public_html/phpScripts/getmovies.php on line 8
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined variable: sql in /home/newmedgr/public_html/phpScripts/getmovies.php on line 40
+[29-Apr-2017 10:45:08 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 40
+[29-Apr-2017 10:45:08 America/New_York] PHP Notice:  Undefined variable: count in /home/newmedgr/public_html/phpScripts/getmovies.php on line 41
+[29-Apr-2017 10:45:08 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/newmedgr/public_html/phpScripts/getmovies.php on line 41
+[29-Apr-2017 10:45:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 42
+[29-Apr-2017 10:45:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 43
+[29-Apr-2017 10:45:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48
+[29-Apr-2017 11:33:29 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 11:33:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48
+[29-Apr-2017 11:33:35 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 11:33:36 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48
+[29-Apr-2017 11:33:45 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 11:33:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48
+[29-Apr-2017 23:40:16 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 23:40:16 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48
+[29-Apr-2017 23:40:39 America/New_York] PHP Notice:  Undefined index: genre in /home/newmedgr/public_html/phpScripts/getmovies.php on line 4
+[29-Apr-2017 23:40:39 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/newmedgr/public_html/phpScripts/getmovies.php on line 48

@@ -1,0 +1,37 @@
+RewriteEngine ON      # Turn on the rewriting engine
+
+AddType text/css .css
+RewriteRule   ^custom  /movies.php  [NC,L]
+
+
+RewriteRule ^Home /index.php [NC,L]
+RewriteRule ^Movie/([0-9]+) ./page.php?id=$1 [NC,L]
+RewriteRule ^Genre/([0-9a-zA-z_-]+)/([0-9]+) /movies.php?genre=$1&page=$2 [NC,L]
+RewriteRule ^Year/([0-9]+)/([0-9]+) /movies.php?year=$1&page=$2 [NC,L]
+RewriteRule ^search/movie /search.php [NC,L]
+RewriteRule ^movies/random /random.php [NC,L]
+
+<IfModule mod_headers.c>
+  <FilesMatch ".(js|css|xml|gz|html)$">
+    Header append Vary: Accept-Encoding
+  </FilesMatch>
+</IfModule>
+
+Options +FollowSymlinks
+RewriteEngine on
+rewritecond %{http_host} ^newmoviewatcher.com [nc]
+rewriterule ^(.*)$ http://www.newmoviewatcher.com/$1 [r=301,nc]
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 week"
+ExpiresByType image/jpeg "access 1 week"
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/html "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType text/x-javascript "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 1 month"
+</IfModule>
+## EXPIRES CACHING ##

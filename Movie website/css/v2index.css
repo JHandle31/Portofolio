@@ -1,0 +1,398 @@
+/* The Navigation bar */
+/* ******************************************************************* */
+@import url('//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css');
+body { margin: 0; background-color: #f1f1f1;}
+.NaviBar { z-index: 999; position: relative; width: 100%; height: 100px; background-color: #339989;}
+.NaviBar img { position: absolute; bottom: 10px; left: 60px; width: 130px; transition: 0.3s ease width; }
+.imgCon { float: left; width: 150px; height: 50px; }
+.NaviCon { padding-top: 50px; padding-left: 150px; transition: 0.3s padding-left ease; }
+.item { height: 50px; float: left; font-family: Open Sans; font-size: 15px; text-transform: uppercase; letter-spacing: 1.5px; line-height: 3.5; padding: 0px 27px; color: white; transition: 0.2s ease background-color; }
+.gapfil { width: 100%; }
+.NaviBar .item:hover { background-color: #ce4242; }
+.drop { position: relative; float: left; cursor: pointer; }
+.dropDown { position: absolute; display: none; }
+.dropDown .dropItem { background-color: #11666A; width: 173px; float: left; font-family: Open Sans; font-size: 12px; text-transform: uppercase; letter-spacing: 1.5px; line-height: 3.5; padding: 0px 15px; color: white; transition: 0.2s ease background-color; text-decoration: none; }
+.dropDown .dropItem:hover { background-color: #ce4242; }
+.dropDown { left: 0px; top: 50px; }
+.drop:hover .dropDown { display: block }
+.menuHam { float: right; font-size: 30px; margin-top: 10px; margin-right: 20px; display: none; width: 20px; cursor: pointer; }
+.menuHam .part { float: left; width: 20px; height: 3px; margin-top: 5px; background-color: white; transition: 0.15s background-color ease; }
+.hideBlock { display: none; }
+.navMargin { padding-left: 175px; }
+#yearDropDown { overflow-y: scroll; width: 536px; height: 600px; }
+.inputItem { height: 49.5px; width: 300px; margin-top: 0px; margin-right: 15px; margin-left: 15px; background-color: white; black: white; border: 0px transparent solid; font-family: open sans; float: left; font-style: italic; padding-left: 5px; }
+.inputItem::-webkit-input-placeholder{ color : black; }
+.inputItem:focus { outline: 0; }
+form button { background: 0; border: 0; outline: 0; padding: 0; }
+
+@media only screen and (min-width: 801px) {
+    .NaviCon { display: block; }
+    .navMargin { padding-left: 225px; }
+}
+
+@media (max-width: 800px) {
+    .NaviBar { overflow: visible; }
+    #yearDropDown { width: 190px; }
+    .navMargin { padding-left: 0px; }
+    .NaviBar img { left: 50%; right: 50%; transform: translate(-50%, 0%); }
+    .NaviCon { margin: 0; padding-left: 0; position: absolute; left: 0; top: 50px; width: 150px; transition: none; }
+    .item { background-color: #339989; float: left; width: 165px; height: 50px; font-size: 14px; padding-left: 18px; }
+    .item .dropItem { background-color: #11666A; }
+    .menuHam { display: block; }
+    .dropDown { left: 165px; top: 0; max-height: 290px; overflow-y: scroll; }
+    .inputItem { width: 165px; height: 40px; float: left; margin: 0; color: black; background-color: white; }
+}
+
+@media (max-width: 1062px) and (min-width: 801px) {
+    #search { display: none; }
+}
+
+@media (max-width: 990px) and (min-width: 801px) {
+    #searchInput { display: none; }
+}
+/* ******************************************************************* */
+/* End of the Navigation bar */
+
+
+/* Popular movies container */
+/* ******************************************************************* */
+
+
+.sec1{
+    width: 100%;
+    font-size: 20px;
+}
+
+.sec1 h1 {
+    color: #484848;
+    font-size: 3.6em;
+    text-align: center;
+    font-family: Segoe UI;
+    font-weight: 500;
+    letter-spacing: -1px;
+    margin-top: 60px;
+    margin-bottom: 0;
+}
+
+.sec1 .IndexCon{
+    padding-top:50px;
+    padding-bottom: 80px;
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.sec1 .IndexCon .MainBlock{
+    width: 20em;
+    height: 21em;
+    padding-top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sec1 .IndexCon .MainBlock .movie{
+    width: 20em;
+    height: 10.5em;
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.movie{
+    cursor: pointer;
+}
+
+.movie:hover > .overlay{
+    opacity: 0.5;
+}
+
+.movie:hover img{
+    transform: scale(1.4)
+}
+
+.sec1 .IndexCon .SideBlock{
+    width: 15em;
+    height: 15em;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sec1 .IndexCon .SideBlock .movie{
+    width: 7.5em;
+    height: 7.5em;
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.sec1 .IndexCon .SideBlock .movie a{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 20;
+}
+
+.sec1 .IndexCon .movie h3{
+    position: absolute;
+    color: white;
+    font-family: Segoe UI;
+    width: 100%;
+    margin: 0;
+    z-index: 3;
+}
+
+.sec1 .IndexCon .movie img{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    transition: transform 5s ease-in-out;
+}
+
+.sec1 .IndexCon .Part2{
+    align-self: flex-end;
+}
+
+.sec1 .overlay{
+    background-color: red;
+    opacity: 0.35;
+    width: 100%;
+    height: 100%;
+    transition: opacity 0.3s ease;
+}
+
+.sec2{
+    background: #094257;
+    font-size: 20px;
+}
+
+.sec2 h1{
+    color: white;
+    font-size: 3.5em;
+    text-align: center;
+    font-family: Segoe UI;
+    font-weight: 500;
+    letter-spacing: -1px;
+    padding-top: 40px;
+    margin-bottom: 20px;;
+}
+
+.sec2 .IndexCon{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    font-size: .8em;
+    padding-bottom: 80px;
+}
+
+.sec2 .IndexCon .line{
+    width: 1px;
+    height: 100%;
+    border-left: 1px dashed #092238;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.PartL{
+}
+
+.PartR{
+}
+
+.inTh{
+    opacity: 0;
+}
+
+.movie-block{
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.movie-block .item{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+}
+
+.movie-block .poster img{
+  position: absolute;
+  width: 100%;
+  top: -35%;
+  left: 0;
+} 
+
+.movie-block .screensh img{
+  position: absolute;
+  height: 100%;
+  left: -40%;
+}
+
+.movie-block .text{
+  font-size: 20px;
+  font-family: segoe ui;
+  text-align: center;
+  line-height: 55px;
+  text-transform: uppercase;
+  padding-top: 10px;
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+
+.movie-block .text h2{
+    font-size: 1.5em;
+  vertical-align: middle;
+}
+
+.SIL{
+    animation-name: slideInLeft;
+    animation-duration: .3s;
+    animation-fill-mode: forwards;
+}
+
+.SIR{
+    animation-delay: .2s;
+    animation-name: slideInRight;
+    animation-duration: .3s;
+    animation-fill-mode: forwards;
+}
+
+.movie{
+    animation-name: slideIn;
+    animation-duration: .2s;
+    animation-fill-mode: forwards;
+    opacity: 0;
+}
+
+.Part1 .movie:nth-of-type(1){ animation-delay: .1s; }
+.Part1 .movie:nth-of-type(2){ animation-delay: .2s; }
+.Part1 .movie:nth-of-type(3){ animation-delay: .3s; }
+.Part1 .movie:nth-of-type(4){ animation-delay: .4s; }
+.MainBlock .movie:nth-of-type(1){ animation-delay: .5s; }
+.MainBlock .movie:nth-of-type(2){ animation-delay: .6s; }
+.Part2 .movie:nth-of-type(1){ animation-delay: .7s; }
+.Part2 .movie:nth-of-type(2){ animation-delay: .8s; }
+.Part2 .movie:nth-of-type(3){ animation-delay: .9s; }
+.Part2 .movie:nth-of-type(4){ animation-delay: 1s; }
+
+@media (max-width: 1400px){
+    .sec1 .IndexCon{
+        font-size: 20px;
+    }
+    .sec1{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1100px){
+    .sec1 .IndexCon{
+        font-size: 18px;
+    }
+    .sec1{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 960px){
+    .SideBlock{
+        margin: 10px;
+    }
+    
+    .sec1 .IndexCon{
+        font-size: 26px;
+    }
+    .sec1{
+        font-size: 15px;
+        line-height: 46px;
+    }
+}
+
+@media (max-width: 620px){
+    .line{
+        display: none;
+    }
+    
+    .sec2 .IndexCon{
+        justify-content: center;
+    }
+    
+    .sec2{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 420px){
+    .sec1 .IndexCon{
+        font-size: 22px;
+    }
+    
+    .sec1{
+        font-size: 10px;
+        line-height: 35px;
+    }
+}
+
+@keyframes slideIn {
+    0% {transform: translate(0px,50px); opacity: 0;}
+    100% {transform: translate(0px,0px); opacity: 1;}
+}
+
+@keyframes slideInRight {
+    from { transform: translate(50px, 0px); opacity: 0;}
+    to { transform: translate(0px, 0px); opacity: 1;}
+}
+
+@keyframes slideInLeft {
+    from { transform: translate(-50px, 0px); opacity: 0;}
+    to { transform: translate(0px, 0px); opacity: 1;}
+}
+
+/* ******************************************************************* */
+/* End of Popular movies container */
+
+
+/* Footer */
+/* ******************************************************************* */
+
+.footer { width: 100%; min-height: 190px; background-color: #131313;  }
+.footer img { width: 220px; height: 155px; padding-top: 30px; padding-left: 10px; float: left; }
+.footerCon { max-width: 1000px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; }
+.footerLinksImg { width: 600px; margin: 0; display: flex; justify-content: center; flex-wrap: wrap; position: relative;}
+.footerLinks { float: left; width: 50px; padding-left: 40px; padding-right: 70px; padding-top: 30px; line-height: 26px; text-transform: uppercase; font-family: open sans; }
+.footerLinks a { color: white; }
+.footerSocial { width: 300px; }
+.linksCon { width: 220px; height: 150px; }
+.footerSocial .text { width: 300px; height: 115px; float: left; color: white; font-size: 18px; text-align: center; padding-top: 35px; padding-left: 15px; }
+.footerSocial li { list-style: none; }
+.footerSocial a { color: white; list-style: none; font-size: 37px; float: left; padding-left: 15px; padding-right: 15px; text-decoration: none; transition: 0.3s ease all; }
+.footerSocial #twitter:hover { color: #0084b4; }
+.footerSocial #pinterest:hover { color: #BB081B; }
+.footerSocial #instagram:hover { color: #276589; }
+.footerSocial #facebook:hover { color: #3B5998; }
+@media (max-width: 776px) {
+    .footerSocial { float: initial; margin: 0 auto; }
+    .footerLinksImg { float: initial; margin: 0 auto; }
+}
+
+
+/* ******************************************************************* */
+/* End of Footer */
